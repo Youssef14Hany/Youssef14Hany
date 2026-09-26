@@ -149,8 +149,13 @@ Full-Stack Development
 
 ---
 
+## 🏆 Achievements & Training
 
+- ⚛️ DEPI — React Frontend Web Development
+- 🌐 GDG on Campus — Web Development
+- 🚀 RAY COMPANY — React Frontend Web Development
 
+---
 
 ## 📫 Let's Connect
 
