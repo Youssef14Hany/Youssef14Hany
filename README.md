@@ -87,12 +87,15 @@ Full-Stack Development
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-1hany)
-- 📧 [Email](mailto:youssefhany579@gmail.com)n
-
----
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-1hany" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:youssefhany579@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
