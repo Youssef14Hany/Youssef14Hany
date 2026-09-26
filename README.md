@@ -87,17 +87,12 @@ Full-Stack Development
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Coming Soon
-* 📧 Email: Coming Soon
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-1hany)
+- 📧 [Email](mailto:youssefhany579@gmail.com)n
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef14Hany&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef14Hany&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
